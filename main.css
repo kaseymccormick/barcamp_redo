@@ -1,0 +1,78 @@
+body{
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  padding:0px;
+  margin:0px;
+    color: #3C514F;
+}
+#part1 #bar1{
+  background-color:#2C4947;
+  height:55px;
+}
+#part1 #one{
+  position:relative;
+  top:5px;
+  left:10px;
+}
+#part1 #three{
+
+  position:relative;
+  left:46px;
+}
+#bar3{
+    background-color:#516261;
+    position:relative;
+    top:-10px;
+}
+#bird{
+  padding-top: 90px;
+  padding-bottom: 40px;
+}
+h1{
+  font-weight:100;
+  padding:0px 30px;
+  font-size:28px;
+}
+#part2 p{
+  padding: 20px 32px;
+  line-height: 2;
+}
+#part2 hr{
+  color: #ccc;
+  border-top: 1px dashed;
+}
+
+#part3 h1{
+  padding: 40px;
+  text-align:center;
+}
+
+h3{
+  color:#6BA236;
+  font-family:arial;
+  font-size:18px;
+  text-align:center;
+}
+
+.track img{
+  position: relative;
+  left: 106px;
+  padding: 20px 0px;
+  
+}
+
+.track ul{
+  list-style-type: none;
+  color: #88511C;
+  line-height: 2;
+  text-align: center;
+  display: inline;
+  font-size:15px;
+}
+
+.track hr{
+  border-top: 1px solid #ccc;
+  margin-bottom:40px;
+  margin-top: 70px;
+}
+#part
+
