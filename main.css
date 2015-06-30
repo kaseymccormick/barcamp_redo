@@ -74,5 +74,70 @@ h3{
   margin-bottom:40px;
   margin-top: 70px;
 }
-#part
+#part4{
+   background: url("assets/part3/wood-bg.png") repeat;
+}
 
+#part4 img {
+  width: 300px;
+  margin-left: 30px;
+  margin-top: 80px;
+}
+
+#part4 h1 {
+  color: #EDC442;
+  text-align: center;
+  padding-top: 60px;
+  font-size: 38px;
+}
+
+#part4 h2 {
+  color: white;
+  font-size: 16px;
+  font-weight: lighter;
+  text-align:center;
+  display: inline-block;
+  margin: -15px 20px 0px 20px;
+}
+
+.event {
+  padding-top: 80px;
+}
+
+.time{
+  width: 80px;
+  height: 80px;
+  border: 3px solid #D1592D;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  text-align: center;
+  position: relative;
+  left: 150px;
+}
+
+
+#part4 .time h1{
+  color:white;
+  margin: 0px;
+  padding-top: 10px;
+}
+
+.event h3{
+  color:white;
+  font-weight: lighter;
+}
+
+p{
+  color: white;
+  font-size: 15px;
+  font-weight: lighter;
+  text-align: center;
+  margin: 0px 16px;
+  line-height: 1.5;
+}
+
+#part4 .time h1 span{
+  padding-left: -27px;
+  margin-left: -10px; 
+}
