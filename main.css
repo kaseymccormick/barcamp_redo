@@ -128,7 +128,7 @@ h3{
   font-weight: lighter;
 }
 
-p{
+.event p{
   color: white;
   font-size: 15px;
   font-weight: lighter;
@@ -140,4 +140,12 @@ p{
 #part4 .time h1 span{
   padding-left: -27px;
   margin-left: -10px; 
+}
+
+.dash{
+   background-image:url("assets/part2/dash-horizontal.png"); 
+   background-repeat:repeat-x;
+   padding:20px;
+   margin-top:50px;
+}
 }
