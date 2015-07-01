@@ -2,40 +2,47 @@ body{
   font-family:"Trebuchet MS", Helvetica, sans-serif;
   padding:0px;
   margin:0px;
-    color: #3C514F;
+  color: #3C514F;
 }
+
 #part1 #bar1{
   background-color:#2C4947;
   height:55px;
 }
+
 #part1 #one{
   position:relative;
   top:5px;
   left:10px;
 }
-#part1 #three{
 
+#part1 #three{
   position:relative;
   left:46px;
 }
+
 #bar3{
-    background-color:#516261;
-    position:relative;
-    top:-10px;
+  background-color:#516261;
+  position:relative;
+  top:-10px;
 }
+
 #bird{
   padding-top: 90px;
   padding-bottom: 40px;
 }
+
 h1{
   font-weight:100;
   padding:0px 30px;
   font-size:28px;
 }
+
 #part2 p{
   padding: 20px 32px;
   line-height: 2;
 }
+
 #part2 hr{
   color: #ccc;
   border-top: 1px dashed;
@@ -74,8 +81,9 @@ h3{
   margin-bottom:40px;
   margin-top: 70px;
 }
+
 #part4{
-   background: url("assets/part3/wood-bg.png") repeat;
+  background: url("assets/part3/wood-bg.png") repeat;
 }
 
 #part4 img {
@@ -139,14 +147,11 @@ h3{
 }
 
 #part4 .time h1 span{
-  padding-left: -27px;
   margin-left: -10px; 
 }
 
-.dash{
-   background-image:url("assets/part2/dash-horizontal.png"); 
-   background-repeat:repeat-x;
-   padding:20px;
-   margin-top:50px;
-}
+.dash{ background-image:url("assets/part2/dash-horizontal.png"); 
+  background-repeat:repeat-x;
+  padding:20px;
+  margin-top:50px;
 }
