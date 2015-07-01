@@ -170,7 +170,7 @@ h3{
   list-style-image: url('assets/part4/plus-bullet.png');
 }
 
-#treehouse img{
+#treehouse {
   position: relative;
   bottom: -30px;
 }
