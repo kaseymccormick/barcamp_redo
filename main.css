@@ -96,7 +96,7 @@ h3{
   font-size: 38px;
 }
 
-#part4 h2 {
+#section4 h2 {
   color: white;
   font-size: 16px;
   font-weight: lighter;
@@ -122,7 +122,7 @@ h3{
 }
 
 
-#part4 .time h1{
+#section4 .time h1{
   color:white;
   margin: 0px;
   padding-top: 10px;
@@ -143,14 +143,8 @@ h3{
   line-height: 2;
 }
 
-#part4 .time h1 span{
+#section4 .time h1 span{
   margin-left: -10px; 
-}
-
-.dash{ background-image:url("assets/part2/dash-horizontal.png"); 
-  background-repeat:repeat-x;
-  padding:20px;
-  margin-top:50px;
 }
 
 #part5{
