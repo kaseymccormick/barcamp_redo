@@ -1,5 +1,5 @@
 # CSS Project
-
+Task is to recreate BarcampOmaha's website from 2015(?) not accessible online currently, was when doing this project after some googling.
 Mobile-first/only, 370px-wide screen.
 
 ## Part 1
